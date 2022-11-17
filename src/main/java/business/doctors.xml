@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Doctors>
+    <Doctor>
+        <ID>UFICP</ID>
+        <name>Kiss Béla</name>
+        <password>dsa</password>
+        <patients>12345;11111;86277</patients>
+        <access>true</access>
+    </Doctor>
+    <Doctor>
+        <ID>TFSIM</ID>
+        <name>Pista</name>
+        <password>PistaAKurvaAnyádatKellJelszó!!!!</password>
+        <patients/>
+        <access>true</access>
+    </Doctor>
+    <Doctor>
+        <ID>KIOZI</ID>
+        <name>Fasz</name>
+        <password/>
+        <patients/>
+        <access>true</access>
+    </Doctor>
+</Doctors>
